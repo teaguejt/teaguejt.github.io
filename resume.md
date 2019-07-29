@@ -1,9 +1,9 @@
 ---
-title: "C'thulhu Resume"
+title: "Joe Teague's Resume"
 layout: resume
 ---
 
-# C'thulhu
+# Joseph T. Teague
 
 > I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
 
